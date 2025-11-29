@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python egg-info directories
+afara_dada_code_agents.egg-info/
+
+# Python bytecode cache directories (all directories at any level)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
